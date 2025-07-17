@@ -1,0 +1,23 @@
+Wireframe: Página de Inicio
+
+---------------------------------------------------------
+| LOGO           | MENÚ PRINCIPAL                | CTA   |
+---------------------------------------------------------
+|                HERO SLIDER (imagen, título, subtítulo, botón)                |
+---------------------------------------------------------
+| ¿Por qué elegirnos? (título, descripción, links destacados)                  |
+---------------------------------------------------------
+| TESTIMONIOS (alumnos, padres)                                                |
+---------------------------------------------------------
+| ACCIONES DESTACADAS: [Inscribirse] [Ver Programas] [Contactar]               |
+---------------------------------------------------------
+| FOOTER: dirección, redes sociales, links legales                             |
+---------------------------------------------------------
+
+Descripción de bloques:
+- Header: Logo a la izquierda, menú de navegación al centro/derecha, botón de llamada a la acción (ej. "Inscríbete").
+- Hero Slider: Imagen principal, título, subtítulo y botón destacado.
+- Sección “¿Por qué elegirnos?”: Título, breve descripción y enlaces a secciones clave.
+- Testimonios: Carrusel o lista de opiniones de alumnos y padres.
+- Acciones: Botones visibles para inscribirse, ver programas y contactar.
+- Footer: Información de contacto, redes sociales y enlaces legales.
