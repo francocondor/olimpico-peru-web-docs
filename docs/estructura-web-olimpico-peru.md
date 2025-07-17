@@ -1,4 +1,3 @@
----
 site:
   name: "Olímpico Perú"
   type: "Sitio web de academia deportiva"
@@ -27,7 +26,17 @@ instructions:
 
 # Mapa Final de Estructura Web Olímpico Perú
 
-## Progreso de desarrollo
+## Checklist de progreso de desarrollo
+
+- [ ] Inicio
+- [ ] Nosotros
+- [ ] Programas
+- [ ] Servicios
+- [ ] Galería
+- [ ] Contacto
+- [ ] Footer
+
+### Notas de avance
 pages:
   - name: "Inicio"
     status: "pendiente"
