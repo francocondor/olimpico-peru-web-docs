@@ -1,0 +1,45 @@
+site:
+  name: "Olímpico Perú"
+  type: "Sitio web de academia deportiva"
+  platform: "WordPress"
+  builder: "Elementor"
+  language: "es"
+  year: 2025
+  goal: "Presentar la academia, captar inscripciones y mostrar servicios/programas."
+instructions:
+  description: |
+    Este archivo contiene los metadatos y las instrucciones para IA y desarrolladores sobre cómo gestionar el proyecto web "Olímpico Perú".
+    Úsalo para automatización, control de avance y referencia técnica.
+  usage:
+    - Marca el estado de cada página usando la propiedad "status" en el checklist.
+    - Añade comentarios o notas en la propiedad "notes" para cada página.
+    - Actualiza el contenido y widgets conforme avances en el desarrollo.
+  checklist:
+    - page: "Inicio"
+      status: "pendiente"
+      notes: ""
+    - page: "Nosotros"
+      status: "pendiente"
+      notes: ""
+    - page: "Programas"
+      status: "pendiente"
+      notes: ""
+    - page: "Servicios"
+      status: "pendiente"
+      notes: ""
+    - page: "Galería"
+      status: "pendiente"
+      notes: ""
+    - page: "Contacto"
+      status: "pendiente"
+      notes: ""
+    - page: "Footer"
+      status: "pendiente"
+      notes: ""
+  example:
+    - page: "Inicio"
+      status: "terminado"
+      notes: "Slider y testimonios listos, falta optimizar CTA."
+    - page: "Nosotros"
+      status: "en progreso"
+      notes: "Falta agregar fotos del equipo."
