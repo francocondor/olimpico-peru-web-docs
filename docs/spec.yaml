@@ -16,8 +16,8 @@ instructions:
     - Actualiza el contenido y widgets conforme avances en el desarrollo.
   checklist:
     - page: "Inicio"
-      status: "en progreso"
-      notes: "Por que elegirnos"
+      status: "terminado"
+      notes: "Página de inicio finalizada según el plan de contenido."
     - page: "Nosotros"
       status: "pendiente"
       notes: ""
