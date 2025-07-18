@@ -1,0 +1,242 @@
+/* Paleta de colores Olímpico Perú */
+:root {
+  --azul-olimpico: #134599;
+  --celeste-claro: #E0F2F7;
+  --gris-medio: #6C7B8D;
+  --verde-profundo: #007B8C;
+  --amarillo-energia: #FFD600;
+  --verde-exito: #4CAF50;
+  --blanco: #fff;
+  --negro: #222;
+}
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  background: var(--celeste-claro);
+  color: var(--gris-medio);
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  background: var(--azul-olimpico);
+  color: var(--blanco);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(19,69,153,0.08);
+}
+.header-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+}
+.logo img {
+  height: 48px;
+}
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+.main-nav a {
+  color: var(--blanco);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.main-nav a.active,
+.main-nav a:hover {
+  color: var(--amarillo-energia);
+}
+.cta-btn {
+  background: var(--verde-profundo);
+  color: var(--blanco);
+  padding: 0.6em 1.2em;
+  border-radius: 24px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+.cta-btn:hover {
+  background: var(--amarillo-energia);
+  color: var(--azul-olimpico);
+}
+
+.hero {
+  position: relative;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(120deg, var(--azul-olimpico) 60%, var(--celeste-claro) 100%);
+  color: var(--blanco);
+  text-align: center;
+}
+.hero-bg {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: url('hero.jpg') center/cover no-repeat;
+  opacity: 0.25;
+  z-index: 1;
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+}
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5em;
+}
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5em;
+}
+.main-btn {
+  background: var(--amarillo-energia);
+  color: var(--azul-olimpico);
+  padding: 0.8em 2em;
+  border-radius: 30px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.main-btn:hover {
+  background: var(--verde-profundo);
+  color: var(--blanco);
+}
+
+.features {
+  background: var(--blanco);
+  padding: 3em 0 2em 0;
+}
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2em;
+}
+.feature {
+  background: var(--celeste-claro);
+  border-radius: 16px;
+  padding: 2em 1em;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(19,69,153,0.05);
+}
+.feature-btn {
+  display: inline-block;
+  margin-top: 1em;
+  background: var(--verde-profundo);
+  color: var(--blanco);
+  padding: 0.5em 1.5em;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+.feature-btn:hover {
+  background: var(--amarillo-energia);
+  color: var(--azul-olimpico);
+}
+
+.testimonios {
+  background: var(--azul-olimpico);
+  color: var(--blanco);
+  padding: 3em 0 2em 0;
+  text-align: center;
+}
+.testimonios-slider blockquote {
+  font-size: 1.2rem;
+  margin: 1em auto;
+  max-width: 500px;
+  border-left: 4px solid var(--amarillo-energia);
+  padding-left: 1em;
+  font-style: italic;
+}
+
+.acciones {
+  background: var(--blanco);
+  padding: 2em 0;
+}
+.acciones-flex {
+  display: flex;
+  gap: 2em;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer {
+  background: var(--azul-olimpico);
+  color: var(--blanco);
+  padding: 2em 0 1em 0;
+  margin-top: 2em;
+}
+.footer-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2em;
+}
+.footer-logo img {
+  height: 40px;
+}
+.footer-info {
+  text-align: center;
+}
+.footer-social a {
+  margin: 0 0.5em;
+  display: inline-block;
+}
+.footer-social img {
+  height: 28px;
+  filter: brightness(0) invert(1);
+  transition: filter 0.2s;
+}
+.footer-social img:hover {
+  filter: brightness(1) invert(0.5) sepia(1) hue-rotate(60deg) saturate(4);
+}
+.footer-links {
+  text-align: center;
+  margin-top: 1em;
+  font-size: 0.95em;
+}
+.footer-links a {
+  color: var(--amarillo-energia);
+  text-decoration: none;
+  margin: 0 0.5em;
+}
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+  .header-flex, .footer-flex {
+    flex-direction: column;
+    gap: 1em;
+  }
+  .main-nav ul {
+    gap: 1em;
+  }
+}
+
+@media (max-width: 600px) {
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+  .features-grid {
+    grid-template-columns: 1fr;
+  }
+  .acciones-flex {
+    flex-direction: column;
+    gap: 1em;
+  }
+}

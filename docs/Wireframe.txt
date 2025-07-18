@@ -1,0 +1,96 @@
+Wireframe Web – Academia de Fútbol Olímpico Perú
+🔹 HEADER (siempre visible)
+•	Logo a la izquierda
+•	Menú de navegación: Inicio | Nosotros | Programas | Servicios | Galería | Inscripciones | Contacto | Blog (opcional)
+•	Botón destacado: WhatsApp / Contáctanos
+________________________________________
+🏠 INICIO (Home)
+•	Imagen/video de fondo impactante (niños entrenando)
+•	Frase motivacional / Lema: “Formamos futbolistas con valores, forjamos líderes”
+•	Botón principal: 👉 [Inscríbete Ahora] → redirige a sección INSCRIPCIONES
+Secciones destacadas con botones:
+Sección	Descripción breve	Botón
+Nosotros	Conoce nuestra historia, misión y valores	[Conócenos]
+Programas	Explora las categorías de entrenamiento	[Ver Programas]
+Servicios	Descubre los beneficios exclusivos que ofrecemos	[Ver Servicios]
+Galería	Mira fotos y videos de nuestras actividades	[Ver Galería]
+Mini sección de testimonios o logros:
+•	Carrusel de 2-3 frases o videos cortos de padres/alumnos.
+•	O un bloque que diga: > “+15 años formando futbolistas con valores”
+> “+500 alumnos entrenados en nuestras canchas”
+> “Presente en torneos distritales y regionales”
+________________________________________
+👥 NOSOTROS
+•	Título: ¿Quiénes somos?
+•	Historia: Fundado en el año 2009, con el nombre de “Club Cultural Deportivo El Rancho de Barranco”. Desde 2013 cambió a “Club Deportivo Olímpico Perú”, debido a que a nuestra Academia de fútbol no solo llegaban niños y jóvenes del distrito de Barranco, sino también de otros distritos aledaños. El C.D. OLÍMPICO PERÚ forma deportistas con valores desde hace más de 15 años. Es el único club dentro del distrito de Barranco que cuenta con instalaciones deportivas propias.
+•	Misión: “Somos una organización deportiva que promueve el desarrollo de una nueva generación de deportistas integrales mediante el descubrimiento de sus potencialidades y la práctica de valores, aportando a la sociedad talentos comprometidos y triunfadores.”
+IA: “Somos una organización deportiva comprometida con el desarrollo integral de una nueva generación de futbolistas. A través del descubrimiento de sus talentos y la práctica constante de valores esenciales, formamos deportistas que son triunfadores en el campo y agentes de cambio positivos en la sociedad.”
+
+•	Visión: “Ser una organización deportiva empoderada, pionera y reconocida a nivel nacional como uno de los mejores Centros de Formación Integral de futbolistas con valores. Además, como modelo de organización en la implementación de acciones que contribuyan al desarrollo social del país.”
+IA: "Nuestra visión es ser la organización deportiva líder y referente a nivel nacional en la formación integral de futbolistas con valores. Aspiramos a ser reconocidos no solo por nuestra excelencia deportiva, sino también por ser un modelo de contribución al desarrollo social del país."
+
+•	Valores: Disciplina, Responsabilidad, Solidaridad, Lealtad, Respeto
+
+•	Nuestro equipo:
+o	Presidente: Edgardo Guillermo Cóndor Huamán
+o	Presidenta: Nancy Luz Canchumanya Porras
+o	Gerente Deportivo: E. Fabricio Cóndor Canchumanya
+o	Entrenadores: Luis Cuzcano, Isac Ambulodigue
+•	Propuesta de valor:
+o	Padres: “Al igual que tú, en C.D. Olímpico Perú creemos que el fútbol es una herramienta de formación para la vida. En nuestra academia, garantizamos un entorno seguro, profesional y orientado al desarrollo integral de tu hijo.”
+o	Alumnos: “En nuestra academia el fútbol es pasión, diversión y crecimiento. Con nosotros vas a mejorar tu técnica, y te ayudaremos a convertirte en el jugador que sueñas ser. Aprende de entrenadores con experiencia en el fútbol profesional y accede a oportunidades en el fútbol.”
+________________________________________
+⚽ PROGRAMAS
+•	Título: Categorías de Entrenamiento
+•	Fútbol Base (3-7 años):
+o	3-5 años: Martes y jueves 3-4 pm
+o	6-7 años: Martes y jueves 4-5 pm, Sábado 9-10 am
+o	Objetivo: iniciación y psicomotricidad
+•	Formación (8-14 años):
+o	8-10 años: Martes y jueves 5-6 pm, Sábado 9-10 am
+o	11-14 años: Lunes, miércoles, viernes 5-6 pm
+o	Objetivo: desarrollo técnico-táctico
+•	Competitivo (15-20 años):
+o	15-20 años: Lunes, miércoles, viernes 6-7 pm
+o	Objetivo: rendimiento y alto nivel
+________________________________________
+💼 SERVICIOS
+•	Evaluaciones nutricionales y físicas con Ellite Nutrición (Exclusivo para alumnos de la academia. ) 
+•	Alquiler del campo deportivo para eventos o entrenamientos.
+•	Estacionamiento privado.
+________________________________________
+🏆 GALERÍA
+•	Fotos de partidos, entrenamientos, eventos
+•	Videos breves (experiencia, torneos)
+•	Logros y reconocimientos
+________________________________________
+📝 INSCRIPCIONES
+•	Beneficios:
+o	Descuentos con aliados: Barranko Muay Thai, Arthromed, Fubball, Ellite Nutrición
+•	Requisitos:
+o	Nombre completo del alumno y apoderado
+o	Fecha de nacimiento
+•	FAQ:
+o	¿Dónde están ubicados?
+o	¿Cuál es el horario?
+•	Formulario de contacto o botón de WhatsApp
+________________________________________
+📞 CONTACTO
+•	WhatsApp: 990173830
+•	Correo: Clubolimpicoperu@gmail.com
+•	Dirección: Jr. Progreso 205, Barranco
+•	Mapa embebido (Google Maps)
+•	Redes sociales: Instagram, Facebook
+•	Horario de atención: 8:00 am a 11:00 pm
+________________________________________
+📈 BLOG (opcional)
+•	Publicaciones sobre:
+o	Entrenamiento infantil
+o	Nutrición deportiva
+o	Mentalidad y disciplina
+o	Noticias: campeonatos, eventos
+________________________________________
+🔺 FOOTER
+•	Logo pequeño
+•	Menú rápido (Inicio | Contacto | RRSS)
+•	Dirección y copyright
