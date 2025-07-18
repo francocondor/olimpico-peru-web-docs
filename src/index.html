@@ -1,108 +1,177 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Olímpico Perú - Academia de Fútbol</title>
-  <meta name="description" content="Formamos futbolistas con valores. Academia de fútbol líder en Barranco, Lima. Programas, servicios, galería y contacto.">
-  <link rel="stylesheet" href="assets/styles.css">
-  <link rel="icon" href="assets/logo.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olímpico Perú - Academia de Fútbol</title>
+    <meta name="description"
+        content="Formamos futbolistas con valores. Academia de fútbol líder en Barranco, Lima. Programas, servicios, galería y contacto.">
+    <link rel="stylesheet" href="assets/styles.css">
+    <link rel="icon" href="assets/logo.png">
 </head>
+
 <body>
-  <!-- Header -->
-  <header class="header">
-    <div class="container header-flex">
-      <a href="index.html" class="logo"><img src="assets/logo.png" alt="Olímpico Perú Logo"></a>
-      <nav class="main-nav">
-        <ul>
-          <li><a href="index.html" class="active">Inicio</a></li>
-          <li><a href="nosotros.html">Nosotros</a></li>
-          <li><a href="programas.html">Programas</a></li>
-          <li><a href="servicios.html">Servicios</a></li>
-          <li><a href="galeria.html">Galería</a></li>
-          <li><a href="contacto.html">Contacto</a></li>
-        </ul>
-      </nav>
-      <a href="https://wa.me/51990173830" class="cta-btn" target="_blank">WhatsApp</a>
-    </div>
-  </header>
+    <!-- Header -->
+    <header class="header">
+        <div class="container header-flex">
+            <a href="index.html" class="logo"><img src="assets/logo.png" alt="Olímpico Perú Logo"></a>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html" class="active">Inicio</a></li>
+                    <li><a href="nosotros.html">Nosotros</a></li>
+                    <li><a href="programas.html">Programas</a></li>
+                    <li><a href="servicios.html">Servicios</a></li>
+                    <li><a href="galeria.html">Galería</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                </ul>
+            </nav>
+            <a href="https://wa.me/51990173830" class="cta-btn" target="_blank">WhatsApp</a>
+        </div>
+    </header>
 
-  <!-- Hero Section -->
-  <section class="hero">
-    <div class="hero-bg"></div>
-    <div class="hero-content">
-      <h1>Formamos futbolistas con valores,<br>forjamos líderes</h1>
-      <p>+15 años formando deportistas en Barranco</p>
-      <a href="#inscripciones" class="main-btn">Inscríbete Ahora</a>
-    </div>
-  </section>
 
-  <!-- Secciones Destacadas -->
-  <section class="features">
-    <div class="container features-grid">
-      <div class="feature">
-        <h3>Nosotros</h3>
-        <p>Conoce nuestra historia, misión y valores.</p>
-        <a href="nosotros.html" class="feature-btn">Conócenos</a>
-      </div>
-      <div class="feature">
-        <h3>Programas</h3>
-        <p>Explora las categorías de entrenamiento.</p>
-        <a href="programas.html" class="feature-btn">Ver Programas</a>
-      </div>
-      <div class="feature">
-        <h3>Servicios</h3>
-        <p>Descubre los beneficios exclusivos que ofrecemos.</p>
-        <a href="servicios.html" class="feature-btn">Ver Servicios</a>
-      </div>
-      <div class="feature">
-        <h3>Galería</h3>
-        <p>Mira fotos y videos de nuestras actividades.</p>
-        <a href="galeria.html" class="feature-btn">Ver Galería</a>
-      </div>
-    </div>
-  </section>
 
-  <!-- Testimonios -->
-  <section class="testimonios">
-    <div class="container">
-      <h2>Testimonios</h2>
-      <div class="testimonios-slider">
-        <blockquote>“+15 años formando futbolistas con valores”</blockquote>
-        <blockquote>“+500 alumnos entrenados en nuestras canchas”</blockquote>
-        <blockquote>“Presente en torneos distritales y regionales”</blockquote>
-      </div>
-    </div>
-  </section>
+    <!-- Hero Slider con 3 banners -->
+    <section class="hero-slider">
+        <div class="slider-container">
+            <div class="slide active" style="background-image:url('assets/1edd289f-8aa8-47c5-86f0-4f70cdb933ab.jpg')">
+                <div class="hero-content">
+                    <h1>Formamos futbolistas con valores,<br>forjamos líderes</h1>
+                    <p>Academia líder en Barranco, Lima</p>
+                    <a href="#inscripciones" class="main-btn">Inscríbete Ahora</a>
+                </div>
+            </div>
+            <div class="slide" style="background-image:url('assets/4645c3a6-2422-492b-8948-2b7d9288cec6.jpg')">
+                <div class="hero-content">
+                    <h1>Entrena, crece y compite</h1>
+                    <p>Programas para todas las edades y niveles</p>
+                    <a href="programas.html" class="main-btn">Ver Programas</a>
+                </div>
+            </div>
+            <div class="slide" style="background-image:url('assets/24809d6d-63c2-4cfc-977b-3b45f276c8ea.jpg')">
+                <div class="hero-content">
+                    <h1>+15 años formando campeones</h1>
+                    <p>Únete a nuestra comunidad y vive el fútbol</p>
+                    <a href="contacto.html" class="main-btn">Contáctanos</a>
+                </div>
+            </div>
+            <div class="slider-controls">
+                <button class="slider-prev" aria-label="Anterior">&#10094;</button>
+                <button class="slider-next" aria-label="Siguiente">&#10095;</button>
+            </div>
+            <div class="slider-dots">
+                <span class="dot active"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+            </div>
+        </div>
+    </section>
 
-  <!-- Acciones Destacadas -->
-  <section class="acciones">
-    <div class="container acciones-flex">
-      <a href="#inscripciones" class="main-btn">Inscribirse</a>
-      <a href="programas.html" class="main-btn">Ver Programas</a>
-      <a href="contacto.html" class="main-btn">Contactar</a>
-    </div>
-  </section>
+    <!-- ¿Por qué elegirnos? -->
+    <section class="porque-elegirnos">
+        <div class="container">
+            <h2>¿Por qué elegirnos?</h2>
+            <p>Más de 15 años formando deportistas con valores. Único club en Barranco con instalaciones propias.
+                Presente en torneos distritales y regionales.</p>
+            <div class="features-grid">
+                <div class="feature">
+                    <h3>Nosotros</h3>
+                    <p>Conoce nuestra historia, misión y valores.</p>
+                    <a href="nosotros.html" class="feature-btn">Conócenos</a>
+                </div>
+                <div class="feature">
+                    <h3>Programas</h3>
+                    <p>Explora las categorías de entrenamiento.</p>
+                    <a href="programas.html" class="feature-btn">Ver Programas</a>
+                </div>
+                <div class="feature">
+                    <h3>Servicios</h3>
+                    <p>Descubre los beneficios exclusivos que ofrecemos.</p>
+                    <a href="servicios.html" class="feature-btn">Ver Servicios</a>
+                </div>
+                <div class="feature">
+                    <h3>Galería</h3>
+                    <p>Mira fotos y videos de nuestras actividades.</p>
+                    <a href="galeria.html" class="feature-btn">Ver Galería</a>
+                </div>
+            </div>
+        </div>
+    </section>
 
-  <!-- Footer -->
-  <footer class="footer">
-    <div class="container footer-flex">
-      <div class="footer-logo">
-        <img src="assets/logo.png" alt="Olímpico Perú Logo pequeño">
-      </div>
-      <div class="footer-info">
-        <p>Jr. Progreso 205, Barranco, Lima</p>
-        <p>&copy; 2025 Olímpico Perú. Todos los derechos reservados.</p>
-      </div>
-      <div class="footer-social">
-        <a href="https://wa.me/51990173830" target="_blank"><img src="assets/whatsapp.svg" alt="WhatsApp"></a>
-        <a href="https://instagram.com/clubolimpicoperu" target="_blank"><img src="assets/instagram.svg" alt="Instagram"></a>
-        <a href="https://facebook.com/clubolimpicoperu" target="_blank"><img src="assets/facebook.svg" alt="Facebook"></a>
-      </div>
-    </div>
-    <div class="footer-links">
-      <a href="#">Términos de uso</a> | <a href="#">Política de privacidad</a> | <a href="contacto.html">Contacto</a>
-    </div>
-  </footer>
+    <!-- Testimonios -->
+    <section class="testimonios">
+        <div class="container">
+            <h2>Testimonios</h2>
+            <div class="testimonios-slider">
+                <blockquote>“+15 años formando futbolistas con valores”</blockquote>
+                <blockquote>“+500 alumnos entrenados en nuestras canchas”</blockquote>
+                <blockquote>“Presente en torneos distritales y regionales”</blockquote>
+            </div>
+        </div>
+    </section>
+
+    <!-- Acciones Destacadas -->
+    <section class="acciones">
+        <div class="container acciones-flex">
+            <a href="#inscripciones" class="main-btn">Inscribirse</a>
+            <a href="programas.html" class="main-btn">Ver Programas</a>
+            <a href="contacto.html" class="main-btn">Contactar</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-flex">
+            <div class="footer-logo">
+                <img src="assets/logo.png" alt="Olímpico Perú Logo pequeño">
+            </div>
+            <div class="footer-info">
+                <p>Jr. Progreso 205, Barranco, Lima</p>
+                <p>&copy; 2025 Olímpico Perú. Todos los derechos reservados.</p>
+            </div>
+            <div class="footer-social">
+                <a href="https://wa.me/51990173830" target="_blank"><img src="assets/whatsapp.svg" alt="WhatsApp"></a>
+                <a href="https://instagram.com/clubolimpicoperu" target="_blank"><img src="assets/instagram.svg"
+                        alt="Instagram"></a>
+                <a href="https://facebook.com/clubolimpicoperu" target="_blank"><img src="assets/facebook.svg"
+                        alt="Facebook"></a>
+            </div>
+        </div>
+        <div class="footer-links">
+            <a href="#">Términos de uso</a> | <a href="#">Política de privacidad</a> | <a
+                href="contacto.html">Contacto</a>
+        </div>
+    </footer>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const slides = document.querySelectorAll('.slide');
+        const dots = document.querySelectorAll('.dot');
+        const prev = document.querySelector('.slider-prev');
+        const next = document.querySelector('.slider-next');
+        let current = 0;
+        let intervalId;
+        function showSlide(idx) {
+          slides.forEach((s, i) => s.classList.toggle('active', i === idx));
+          dots.forEach((d, i) => d.classList.toggle('active', i === idx));
+          current = idx;
+        }
+        function nextSlide() {
+          showSlide((current + 1) % slides.length);
+        }
+        function prevSlide() {
+          showSlide((current - 1 + slides.length) % slides.length);
+        }
+        if (prev && next) {
+          prev.onclick = prevSlide;
+          next.onclick = nextSlide;
+        }
+        dots.forEach((d, i) => d.onclick = () => showSlide(i));
+        showSlide(0);
+        if (intervalId) clearInterval(intervalId);
+        intervalId = setInterval(nextSlide, 7000);
+      });
+    </script>
 </body>
+
 </html>
