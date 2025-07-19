@@ -1,3 +1,125 @@
+/* ====== PROGRAMAS NUEVA ESTRUCTURA ====== */
+.programas-header {
+    background: #F7FAFD;
+    text-align: center;
+    padding: 3rem 1rem 2rem 1rem;
+}
+.programas-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: #1a365d;
+}
+.programas-header p {
+    font-size: 1.2rem;
+    color: #3b4a6b;
+}
+
+.programas-tarjetas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    background: #F7FAFD;
+    padding: 2rem 1rem 2rem 1rem;
+}
+.tarjeta-programa {
+    background: #fff;
+    border-radius: 1.2rem;
+    box-shadow: 0 2px 12px rgba(26,54,93,0.07);
+    padding: 2rem 1.5rem 1.5rem 1.5rem;
+    width: 320px;
+    max-width: 95vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.2s;
+}
+.tarjeta-programa:hover {
+    transform: translateY(-6px) scale(1.03);
+    box-shadow: 0 6px 24px rgba(26,54,93,0.13);
+}
+.icono-programa {
+    font-size: 2.5rem;
+    margin-bottom: 0.7rem;
+}
+.rango-edad {
+    display: inline-block;
+    background: #e3eaf6;
+    color: #1a365d;
+    border-radius: 1rem;
+    padding: 0.2rem 0.8rem;
+    font-size: 1rem;
+    margin-bottom: 0.7rem;
+}
+.tarjeta-programa ul {
+    list-style: disc inside;
+    margin: 0.7rem 0 0.7rem 0;
+    padding: 0;
+    color: #3b4a6b;
+    text-align: left;
+}
+.tarjeta-programa .objetivo {
+    color: #1a365d;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+
+.programas-beneficios {
+    background: #fff;
+    text-align: center;
+    padding: 2.5rem 1rem 2rem 1rem;
+}
+.programas-beneficios h2 {
+    color: #1a365d;
+    font-size: 2rem;
+    margin-bottom: 1.2rem;
+}
+.programas-beneficios ul {
+    display: inline-block;
+    text-align: left;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 1.1rem;
+    color: #3b4a6b;
+}
+.programas-beneficios ul li {
+    margin-bottom: 0.7rem;
+    padding-left: 1.2rem;
+    position: relative;
+}
+.programas-beneficios ul li:before {
+    content: '✔';
+    color: #1a365d;
+    position: absolute;
+    left: 0;
+}
+
+.programas-cta {
+    background: #F7FAFD;
+    text-align: center;
+    padding: 2.5rem 1rem 2.5rem 1rem;
+}
+.programas-cta h2 {
+    color: #1a365d;
+    font-size: 2rem;
+    margin-bottom: 1.2rem;
+}
+.main-btn {
+    background: #1a365d;
+    color: #fff;
+    border: none;
+    border-radius: 2rem;
+    padding: 0.9rem 2.2rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s;
+    display: inline-block;
+}
+.main-btn:hover {
+    background: #3b4a6b;
+}
 /* Contenedor general de programas */
 .container-programas {
   width: 100%;
@@ -595,7 +717,7 @@
 /* Paleta de colores Olímpico Perú */
 :root {
   --azul-olimpico: #134599;
-  --celeste-claro: #E0F2F7;
+  --celeste-claro: #F7FAFD;
   --gris-medio: #6C7B8D;
   --verde-profundo: #007B8C;
   --amarillo-energia: #FFD600;
