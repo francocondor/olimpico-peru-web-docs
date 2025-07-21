@@ -22,4 +22,3 @@ Puedes usar estos colores en fondos, textos, botones y elementos gráficos para 
 | Gris Medio       | #6C7B8D  | Textos, iconos       |
 | Verde Profundo   | #007B8C  | Botones, acentos     |
 | Amarillo energía | #FFD600  | Iconos, acentos      |
-| Verde éxito      | #4CAF50  | Mensajes positivos   |
