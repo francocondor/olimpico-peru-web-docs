@@ -1,0 +1,68 @@
+Wireframe de la página "Programas" para Elementor (Olimpico Perú)
+
+--------------------------------------------------
+SECCIÓN 1: ENCABEZADO (Fondo #F7FAFD)
+--------------------------------------------------
+[ Título principal centrado ]
+Nuestros Programas
+
+[ Subtítulo centrado ]
+Entrenamiento para todas las edades y niveles
+
+--------------------------------------------------
+SECCIÓN 2: PROGRAMAS (Tres columnas o tarjetas)
+--------------------------------------------------
+[ Columna 1 ]
+- Ícono o círculo de color (opcional)
+- Fútbol Base
+- 3-7 años
+- Horarios:
+  • 3-5 años: Martes y jueves 3-4 pm
+  • 6-7 años: Martes y jueves 4-5 pm, Sábado 9-10 am
+- Objetivo: Iniciación y psicomotricidad
+
+[ Columna 2 ]
+- Ícono o círculo de color (opcional)
+- Formación
+- 8-14 años
+- Horarios:
+  • 8-10 años: Martes y jueves 5-6 pm, Sábado 9-10 am
+  • 11-14 años: Lunes, miércoles, viernes 5-6 pm
+- Objetivo: Desarrollo técnico-táctico
+
+[ Columna 3 ]
+- Ícono o círculo de color (opcional)
+- Competitivo
+- 15-20 años
+- Horarios:
+  • 15-20 años: Lunes, miércoles, viernes 6-7 pm
+- Objetivo: Rendimiento y alto nivel
+
+--------------------------------------------------
+SECCIÓN 3: BENEFICIOS/VALORES (Fondo blanco)
+--------------------------------------------------
+[ Título centrado ]
+Beneficios de nuestros programas
+
+[ Lista de beneficios con íconos o bullets ]
+- Desarrollo físico integral
+- Fomento de valores (disciplina, respeto, solidaridad)
+- Trabajo en equipo
+- Diversión y aprendizaje
+- Entrenadores calificados
+
+--------------------------------------------------
+SECCIÓN 4: LLAMADO A LA ACCIÓN (Fondo #F7FAFD)
+--------------------------------------------------
+[ Texto centrado ]
+¿Listo para unirte?
+
+[ Botón grande centrado ]
+Contactar Academia
+
+--------------------------------------------------
+Notas:
+- Mantener estilo limpio y profesional.
+- Usar colores institucionales.
+- Espaciado generoso entre secciones.
+- No incluir testimonios ni imágenes de fondo en el encabezado.
