@@ -1,9 +1,9 @@
 # Checklist de desarrollo
 
 ## Planificación y contenido
-- [ ] Definición de objetivos del sitio
-- [ ] Estructura y navegación clara
-- [ ] Revisión y corrección de contenido
+ - [x] Definición de objetivos del sitio
+ - [x] Estructura y navegación clara
+ - [x] Revisión y corrección de contenido
 - [ ] Inclusión de imágenes y multimedia optimizadas
 
 ## Diseño y experiencia de usuario
